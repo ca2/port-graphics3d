@@ -1,22 +1,6 @@
-[submodule "assimp"]
-	path = assimp
-	url = ../../cpp-port/assimp
-	branch = main
 [submodule "glad"]
 	path = glad
 	url = ../glad_3.1
-[submodule "poly2tri"]
-	path = poly2tri
-	url = ../../cpp-port/poly2tri
-	branch = main
-[submodule "tinygltf"]
-	path = tinygltf
-	url = ../../cpp-port/tinygltf
-	branch = main
-[submodule "tinyusdz"]
-	path = tinyusdz
-	url = ../../cpp-port/tinyusdz
-	branch = main
 [submodule "ktx"]
 	path = ktx
 	url = ../../cpp-port/ktx
